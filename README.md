@@ -1,2 +1,2 @@
-<h1>Project title</h1>
-<p>description</p>
+<h1>CS261 Project</h1>
+<p>We are still working on it...</p>
